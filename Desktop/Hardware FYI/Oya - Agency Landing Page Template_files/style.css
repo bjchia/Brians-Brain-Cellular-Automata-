@@ -257,7 +257,7 @@ p {
 
 /* home intro */
 .home-intro {
-    background: url(../images/bg-intro.png), #f8f5ff;
+    background: url("http://astylers.com/oya/images/bg-intro.png"), #f8f5ff;
     background-repeat: no-repeat;
     padding: 130px 0 150px !important;
     background-size: 58%;
@@ -304,7 +304,7 @@ p {
 }
 
 .home-intro h2 {
-    font-size: 102px;
+    font-size: 90px;
     font-weight: 700;
     margin: 60px 0;
     line-height: 54px;
